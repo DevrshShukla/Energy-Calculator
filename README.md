@@ -10,11 +10,19 @@ A beautifully designed Streamlit web app to help users calculate their daily and
 ✅ Mobile-friendly and clean UI with custom CSS
 
 📸 Screenshots
-Home Selection	Energy Report	Energy Breakdown
-		
+Home Selection	
+![image](https://github.com/user-attachments/assets/efd3b52b-339a-469e-8e21-72a7f30b3ed8)
+
+Energy Report	
+![image](https://github.com/user-attachments/assets/bc2e1aa2-0480-4c1c-a992-582cc4469571)
+
+Energy Breakdown
+![image](https://github.com/user-attachments/assets/d0568514-6962-4567-9531-54622fd906c6)
+	
 
 🚀 Live Demo
-👉 Try the app here
+👉 Try the app here 
+https://energy-calculator-gwff6i9wcwirfpwho7rhbi.streamlit.app/
 (Deploy on Streamlit Cloud or HuggingFace Spaces and replace this link)
 
 📦 Installation
@@ -45,7 +53,7 @@ Data Handling: Pandas
 The app also provides simple and effective energy-saving strategies for home appliances, encouraging sustainable living and cost reduction.
 
 👨‍💻 Author
-Made with ❤️ by Your Name
+Made with ❤️ by Your Devarsh Shukla
 
 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
